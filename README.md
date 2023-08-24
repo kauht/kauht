@@ -1,5 +1,5 @@
 # Hey there, I'm Kaught! 👋
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://cdn.discordapp.com/attachments/1136400810411040874/1144352542306877550/mami-mami-nanami.gif)" width="40" height="40" />
+<img src=".assets/mami/gif" width="40" height="40">
 Thanks for stopping by my GitHub playground. I'm all about coding, tech, and good vibes. Here's a peek into my world:
 
 - 💻 I live for code, pixels, and late-night debugging adventures.
