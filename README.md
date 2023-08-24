@@ -45,5 +45,8 @@ Thanks for stopping by my GitHub playground. I'm all about coding, tech, and goo
 <!-- Add your favorite coding quote below -->
 > "Coding is not just my hobby; it's my happy place."
 
+<!-- Add your custom GIF here -->
+![Custom GIF]([URL_OF_YOUR_CUSTOM_GIF](https://cdn.discordapp.com/attachments/1136400810411040874/1144352542306877550/mami-mami-nanami.gif)https://cdn.discordapp.com/attachments/1136400810411040874/1144352542306877550/mami-mami-nanami.gif)
+
 <!-- Add more badges, GIFs, or sections as you like -->
 
