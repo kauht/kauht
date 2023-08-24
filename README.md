@@ -9,41 +9,16 @@ Thanks for stopping by my GitHub playground. I'm all about coding, tech, and goo
 
 ## About Me
 
-- 👦 I'm Samuel, known as Kaught online.
-- 🌍 This beautiful planet is my home.
-- 🎮 I go by .Kaughts on Discord.
-
-## What I'm Up To
-
-- 🚀 Exploring coding languages from Python to JavaScript.
-- 🎉 Cooking up personal projects that make me grin.
-- 🌱 Learning something new daily to level up my skills!
+- 👦 I'm Samuel, but I am known as Kaught online.
 
 ## Current Jam
 
-🎵 Grooving to: [Insert Current Favorite Song/Artist]
-🎮 Dominating: [Current Favorite Game]
-📺 Binge-watching: [Favorite TV Show/Movie/Anime]
+- 🎵 Listening to: [Dylan Espeseth, Parker Jack, SadBoyProlific and BoyWithUke]
+- 📺 I love anime: [https://aniwatch.to/]
 
 ## Let's Hang Out
 
-- Discord: .Kaughts#1234 (Ping me anytime!)
-- Twitter: [@YourTwitterHandle](link) (Tweet me if you're there)
-- Instagram: [@YourInstagramHandle](link) (Find me on the 'Gram)
+- Discord: [.Kaughts](discord.gg/Z5WpaU4K) (Open for DM's)
+- X/Twitter: [@Kaughts]([link](x.com/Kaughts))
 
-## Random Fact
-
-🌌 Black holes bending time? Mind-blowing stuff!
-
-## Cool Gizmos
-
-- 📊 GitHub Stats: Dynamic breakdown of my GitHub activities.
-- 🎉 GitHub Streak: Counting the days I've contributed.
-- 🌟 Top Languages: My go-to coding languages.
-- 🌐 Portfolio: [My Portfolio](link) (Screenshot embedded!)
-
-<!-- Add your favorite coding quote below -->
-> "Coding is not just my hobby; it's my happy place."
-
-<!-- Add more badges, GIFs, or sections as you like -->
-
+ <a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaughts&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
