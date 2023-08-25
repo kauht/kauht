@@ -1,5 +1,7 @@
-# Hey there, I'm Kaught! 👋
-<img src=".assets/mami/gif" width="40" height="40">
+# Hey there, I'm Kaught! 👋!![ezgif-3-e3211d0b0a](https://github.com/Kaughts/Kaughts/assets/89326272/54cba083-7fe6-494f-a99f-92a601bba7d4)
+
+
+
 Thanks for stopping by my GitHub playground. I'm all about coding, tech, and good vibes. Here's a peek into my world:
 
 - 💻 I live for code, pixels, and late-night debugging adventures.
