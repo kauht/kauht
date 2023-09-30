@@ -1,6 +1,6 @@
-# Hey there, I'm Kaught! 👋!![ezgif-3-e3211d0b0a](https://github.com/Kaughts/Kaughts/assets/89326272/54cba083-7fe6-494f-a99f-92a601bba7d4)
+# Hey there, I'm Kaught! 👋
 
-
+<img align="right" width="150" height="150" src="https://github.com/Kaughts/Kaughts/assets/89326272/54cba083-7fe6-494f-a99f-92a601bba7d4">
 
 Thanks for stopping by my GitHub playground. I'm all about coding, tech, and good vibes. Here's a peek into my world:
 
@@ -21,6 +21,6 @@ Thanks for stopping by my GitHub playground. I'm all about coding, tech, and goo
 ## Let's Hang Out
 
 - Discord: [.Kaughts](discord.gg/Z5WpaU4K) (Open for DM's)
-- X/Twitter: [@Kaughts]([link](x.com/Kaughts))
+- X/Twitter: [@Kaughts](x.com/Kaughts)
 
- <a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaughts&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaughts&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
