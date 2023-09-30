@@ -4,19 +4,19 @@
 
 Thanks for stopping by my GitHub playground. I'm all about coding, tech, and good vibes. Here's a peek into my world:
 
-- 💻 I live for code, pixels, and late-night debugging adventures.
-- 🎮 When I'm not typing code, I'm probably dominating my favorite game.
-- 🌌 Space and galaxies captivate my imagination like nothing else.
-- 🎵 Tunes and code are my ultimate combo!
+- 💻 I kinda like coding ig.
+- 🎮 I am shit at video games but play them once in a while, mainly FN, Valorant, GD and ADOFAI.
+- 🌌 I usually have a pretty shitty my imagination but I can somehow come up with an infinite amount of ideas.
+- 🎵 Music and code are literally the ultimate combo fr!
 
 ## About Me
 
-- 👦 I'm Samuel, but I am known as Kaught online.
+- 👦 I'm Samuel, but I am known as Kaught online, I have a lot of aliases but Kaught is my main one.
 
 ## Current Jam
 
-- 🎵 Listening to: [Dylan Espeseth, Parker Jack, SadBoyProlific and BoyWithUke]
-- 📺 I love anime: [https://aniwatch.to/]
+- 🎵 Listening to: Dylan Espeseth, Parker Jack, SadBoyProlific and BoyWithUke
+- 📺 I love anime: Always on https://aniwatch.to/ (fuck funimation, crunchyroll etc.)
 
 ## Let's Hang Out
 
