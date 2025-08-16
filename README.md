@@ -8,10 +8,10 @@
 <table align="center">
   <tr>
     <td>
-      <a href="" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kauht&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="kauht"/></a>
+      <a href="" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kauht&theme=prussian&show_icons=true&hide_border=false&count_private=true" alt="kauht"/></a>
     </td>
     <td>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kauht&theme=tokyonight&hide_border=false" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kauht&theme=prussian&hide_border=false" alt="GitHub Streak" /></a>
     </td>
   <tr>
 </table>
