@@ -29,6 +29,6 @@
 
   <br/>
   <br/>
+  <h2 align="center"> <a href="https://wakatime.com/@kauht"><img src="https://wakatime.com/badge/user/caf259e7-a4b8-4a67-be4b-71c06bc85498.svg" alt="Total time coded since Aug 16 2025" /></a> <a href="https://github.com/kauht"><img src="https://img.shields.io/github/followers/kauht?logo=github&style=plastic" alt="Total Followers" /></a> </h2>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kauht&langs_count=10&layout=compact"/>
-    <h2 align="center"> <a href="https://wakatime.com/@kauht"><img src="https://wakatime.com/badge/user/caf259e7-a4b8-4a67-be4b-71c06bc85498.svg" alt="Total time coded since Aug 16 2025" /></a> <a href="https://github.com/kauht"><img src="https://img.shields.io/github/followers/kauht?logo=github&style=plastic" alt="Total Followers" /></a> </h2>
   </p>
