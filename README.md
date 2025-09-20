@@ -15,7 +15,3 @@
     </td>
   <tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kauht&langs_count=10&layout=compact"/>
-</p>
