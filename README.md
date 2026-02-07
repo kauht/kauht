@@ -1,3 +1,5 @@
-# Yo, I'm Sam
+## Wsg yo
 
-If you need to reach me, add me on discord @kauht or send an email at me@sammy.sh
+Sammy
+
+@kauht on discord
